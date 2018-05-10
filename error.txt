@@ -1,0 +1,118 @@
+
+[<module 'time' (built-in)>] TalkException(code=0, reason='can not send to myself', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] name 'read' is not defined
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] 'result'
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] 'result'
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cacede0f993caff6e2626606278ad6ee5', parameterMap={'2': 'cacede0f993caff6e2626606278ad6ee5'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cacede0f993caff6e2626606278ad6ee5', parameterMap={'2': 'cacede0f993caff6e2626606278ad6ee5'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cacede0f993caff6e2626606278ad6ee5', parameterMap={'2': 'cacede0f993caff6e2626606278ad6ee5'})
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cacede0f993caff6e2626606278ad6ee5', parameterMap={'2': 'cacede0f993caff6e2626606278ad6ee5'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cacede0f993caff6e2626606278ad6ee5', parameterMap={'2': 'cacede0f993caff6e2626606278ad6ee5'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cacede0f993caff6e2626606278ad6ee5', parameterMap={'2': 'cacede0f993caff6e2626606278ad6ee5'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cacede0f993caff6e2626606278ad6ee5', parameterMap={'2': 'cacede0f993caff6e2626606278ad6ee5'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cacede0f993caff6e2626606278ad6ee5', parameterMap={'2': 'cacede0f993caff6e2626606278ad6ee5'})
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] 'result'
+[<module 'time' (built-in)>] 'result'
+[<module 'time' (built-in)>] 'result'
+[<module 'time' (built-in)>] 'result'
+[<module 'time' (built-in)>] Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c14b2631c11a978ecaeed46199d0317b4', parameterMap={'2': 'c14b2631c11a978ecaeed46199d0317b4'})
+[<module 'time' (built-in)>] 'result'
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] [Errno 101] Network is unreachable
+[<module 'time' (built-in)>] [Errno 101] Network is unreachable
+[<module 'time' (built-in)>] [Errno 101] Network is unreachable
+[<module 'time' (built-in)>] [Errno 101] Network is unreachable
+[<module 'time' (built-in)>] [Errno 101] Network is unreachable
+[<module 'time' (built-in)>] [Errno 101] Network is unreachable
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] 'result'
+[<module 'time' (built-in)>] TalkException(code=6, reason='text length over limit: 11107', parameterMap=None)
